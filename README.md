@@ -1,4 +1,4 @@
-### Halo 👋, Saya Iqbal Zayyan
+### Hi 👋, I'm Iqbal Zayyan
 
-Sebagai seorang freelancer Web Development. Saya memiliki dasar yang kuat dalam teknologi informasi dan berusaha menggabungkan pengetahuan ini dengan keterampilan praktis dalam desain UI/UX, HTML, CSS, Tailwind, Javascript, Node JS, dan Express JS. Saya senang bekerja dengan teknologi terbaru dan kerangka kerja Javascript untuk menciptakan aplikasi web yang inovatif dan responsif. Selain itu, saya juga menikmati belajar hal baru, berpetualang, dan berbagi pengetahuan saya dengan komunitas teknologi.
+I am a freelancer in Web Development and Web Design. I have a strong base in information technology. My skills include UI/UX Design, Figma, Responsive Design, HTML, CSS, Tailwind, Javascript, ExpressJS, NodeJS, ReactJS, and Basic Back-End. I really enjoy working with the latest technologies and Javascript frameworks to create innovative and responsive web applications. Besides that, I also enjoy learning new things, adventuring, and sharing my knowledge with the technology community. If you are interested in collaborating or discussing an interesting project, don’t hesitate to contact me. I am always open to new opportunities!
 
