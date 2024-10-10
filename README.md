@@ -1,6 +1,6 @@
 ### Hey there! 👋,
 
-I'm Iqbal Zayyan, a Full-Stack Developer skilled in designing and building modern web applications using the MERN stack. I specialize in creating intuitive user interfaces and seamless user experiences. I'm comfortable working independently or as part of a team and have a strong passion for learning.
+I'm Iqbal Zayyan, a skilled Full-Stack Developer specializing in creating modern web applications using the MERN stack and other technologies. I focus on designing intuitive user interfaces and seamless user experiences. I'm comfortable working independently or collaboratively and have a strong passion for continuous learning.
 
 Current version:
 https://iqbalzayn01.vercel.app/
