@@ -1,5 +1,4 @@
-### Hey there! 👋,
+### Hey there! 👋
 
-I'm Iqbal Zayyan, a passionate Fullstack Developer dedicated to crafting innovative and user-friendly digital solutions. I enjoy the entire development process, from designing engaging and interactive interfaces to building robust and scalable back-ends. I'm comfortable working independently or collaboratively and have a strong passion for continuous learning.
-
- 👉 [My Portfolio](https://www.miqbalzayyn.site/)
+## I'm Iqbal Zayyan, 
+a Front-End Developer & UI/UX Designer, passionate about building clean, functional, and user-friendly web apps using Next.js, TypeScript, and Tailwind CSS. I also love crafting beautiful interfaces in Figma.
